@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Compassionate Support",
+    "description": "Our community offers personalized support tailored to individual wellness journeys.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Certified Wellness Coaches",
+    "description": "Our team includes certified coaches focused on mental health and well-being.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Holistic Care",
+    "description": "We provide access to resources for mental, emotional, and physical well-being.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
