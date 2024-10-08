@@ -29,7 +29,8 @@ jobs:
           else
             echo "Error: Neither 'main' nor 'master' branch exists." >&2
             exit 1
-          
+          fi # <-- Added the missing 'fi' here to close the if block
+
       # Merge dev into the checked-out branch
       - name: Merge dev into target branch
         run: |
