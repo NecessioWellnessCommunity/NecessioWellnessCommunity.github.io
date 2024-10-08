@@ -1,3 +1,5 @@
+[![Automatically merge Dev to Main or Master](https://github.com/NecessioWellnessCommunity/NecessioWellnessCommunity.github.io/actions/workflows/merge-dev-to-main.yml/badge.svg?branch=dev)](https://github.com/NecessioWellnessCommunity/NecessioWellnessCommunity.github.io/actions/workflows/merge-dev-to-main.yml)
+
 ## Installation
 
 
