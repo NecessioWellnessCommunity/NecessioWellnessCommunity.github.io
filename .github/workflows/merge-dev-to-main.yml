@@ -1,8 +1,8 @@
-name: Automatically merge Dev to Main
+name: Automatically merge Dev to Main or Master
 
 on:
   push:
-    branches: 
+    branches:
       - dev
 
 jobs:
@@ -19,21 +19,23 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
+      # Try to checkout main or master branch, depending on what's available
       - name: Checkout main or master branch
         run: |
-          if git show-ref --quiet refs/head/main; then
+          if git show-ref --quiet refs/heads/main; then
             git checkout main
           elif git show-ref --quiet refs/heads/master; then
             git checkout master
           else
             echo "Error: Neither 'main' nor 'master' branch exists." >&2
             exit 1
-
-      - name: Merge dev into main
+          
+      # Merge dev into the checked-out branch
+      - name: Merge dev into target branch
         run: |
           git merge dev --no-ff --commit
 
-      # Push changes to main
+      # Push changes to the remote
       - name: Push changes
         run: |
           git push origin HEAD
