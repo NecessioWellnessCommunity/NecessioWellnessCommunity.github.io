@@ -20,12 +20,12 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for service in site.services %}
+    {% for program in site.programs %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            <a href="{{ program.url | relative_url }}">{{ program.title }}</a>
           </h2>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
         </div>

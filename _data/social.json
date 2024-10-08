@@ -1,32 +1,12 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/NecessioWellnessCommunityy/necessiowellnesscommunity",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/necessionwellnesscommunity",
-    "image": "images/social/twitter.svg"
-  },
-  {
-    "name": "Facebook",
-    "link": "https://facebook.com",
-    "image": "images/social/facebook.svg"
-  },
-  {
     "name": "Email",
-    "link": "mailto:ekyllserif@example.com ",
+    "link": "mailto:necessiowellnesscommunity@gmail.com",
     "image": "images/social/email.svg"
   },
   {
     "name": "Instagram",
-    "link": "https://instagram.com",
+    "link": "https://instagram.com/necessio_wellness_community",
     "image": "images/social/instagram.svg"
-  },
-  {
-    "name": "Discord",
-    "link": "https://discord.com",
-    "image": "images/social/discord.svg"
   }
 ]
