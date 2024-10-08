@@ -15,8 +15,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.png"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_height: "72px"
+  desktop_width: "96px"
 
 
 home: 

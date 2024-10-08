@@ -19,12 +19,21 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
+      - name: Checkout main or master branch
+        run: |
+          if git show-ref --quiet refs/head/main; then
+            git checkout main
+          elif git show-ref --quiet refs/heads/master; then
+            git checkout master
+          else
+            echo "Error: Neither 'main' nor 'master' branch exists." >&2
+            exit 1
+
       - name: Merge dev into main
         run: |
-          git checkout main
           git merge dev --no-ff --commit
 
       # Push changes to main
       - name: Push changes
         run: |
-          git push origin main
+          git push origin HEAD
