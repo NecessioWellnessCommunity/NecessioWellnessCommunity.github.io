@@ -1,5 +1,7 @@
 [![Automatically merge Dev to Main or Master](https://github.com/NecessioWellnessCommunity/NecessioWellnessCommunity.github.io/actions/workflows/merge-dev-to-main.yml/badge.svg?branch=dev)](https://github.com/NecessioWellnessCommunity/NecessioWellnessCommunity.github.io/actions/workflows/merge-dev-to-main.yml)
 
+[![Deploy site](https://github.com/NecessioWellnessCommunity/NecessioWellnessCommunity.github.io/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/NecessioWellnessCommunity/NecessioWellnessCommunity.github.io/actions/workflows/deploy.yml)
+
 ## Installation
 
 
