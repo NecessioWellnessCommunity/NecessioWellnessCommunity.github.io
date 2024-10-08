@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+We’d love to hear from you! Whether you have questions about our programs, want to get involved, or need support, feel free to reach out to us.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
@@ -14,3 +14,5 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 | Friday    | 8:30am - 5:00pm |
 | Saturday  | 10:am - 4:00pm  |
 | Saturday  | Closed          |
+
+Our team is here to provide support, answer inquiries, or connect you with resources that promote mental wellness. Don’t hesitate to reach out!

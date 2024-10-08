@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Team
 layout: teams
 description: Team
@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+At Necessio Wellness Community, our strength lies in our dedicated and diverse team. Each member brings unique skills, experiences, and perspectives, united by a shared passion for mental health advocacy and support. -->
