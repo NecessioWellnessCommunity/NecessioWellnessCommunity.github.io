@@ -10,4 +10,4 @@ show_call_box: true
 
 # Necessio Wellness Community.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Empowering Minds, Erasing Stigma
