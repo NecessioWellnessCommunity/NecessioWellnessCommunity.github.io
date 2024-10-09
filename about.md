@@ -1,87 +1,44 @@
 ---
-title: About
+title: Our Story
 layout: page
-description: About
+description: About Us
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We are Necessio Wellness Community, an organization dedicated to rewriting the narrative of mental health through compassion and action. Since our inception in 2022, we've been driven by a shared commitment to address the plight of underprivileged individuals living with mental illness and those struggling with mental health challenges. With our formal registration in 2024, our resolve to champion the right to mental health has only strengthened.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+At Necessio, we understand that to truly make a difference, we must address the root cause of stigma. That's why we're passionate about sensitizing communities about mental health issues from the grassroots level up. By fostering understanding, acceptance, and empathy, we aim to create a culture where individuals living with mental illness feel supported and valued, free from the burden of stigma. 
+
+We are also keen on promoting occupational justice by advocating for equitable access to opportunities that allow people to engage in activities that contribute to their health, well-being, and quality of life by addressing social, economic, and cultural barriers. Join us as we continue to shape a future where mental health is met with compassion and dignity for all.
+
+<table>
+  <tr>
+    <td>
+      <h2>Mission</h2>
+      <img src="/images/mission.jpg" alt="Mission" style="width:150px;">
+      <p>To advocate for the right to freedom from inhuman treatment and promote occupational justice for people living with mental health illnesses and experiencing mental health challenges.</p>
+    </td>
+    <td>
+      <h2>Vision</h2>
+      <img src="/images/vision.jpg" alt="Vision" style="width:150px;">
+      <p>To contribute to the fostering of a society that is both informed and sensitized on mental health and the rights of people living with the condition.</p>
+    </td>
+  </tr>
+</table>
+
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+1. Educate society about mental health and the rights of people living with mental illnesses to help reduce the stigma. This includes promoting occupational justice by highlighting the importance of equitable opportunities for meaningful engagement in activities.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+2. Advocate for the right to freedom from inhumane treatment for people living with mental illnesses.
+
+3. Improve the quality of life of stranded and underprivileged individuals living with mental illnesses and experiencing mental health challenges by donating essential items, providing emotional support.
 
 ## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Mental health challenges affect people from all walks of life, yet there remains a pervasive stigma around seeking help. This stigma often stems from a lack of awareness and understanding, which can prevent individuals from accessing the care and support they need. At Necessio Wellness Community, we see this as a critical issue to address.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Our relevance lies in our ability to bridge the gap between mental health awareness and action. We focus on reaching underserved populations—those who are often marginalized and left without access to adequate mental health resources. By working at the grassroots level, we engage communities directly, ensuring that mental health education is accessible, relatable, and practical. Through our efforts, we aim to reduce stigma, foster supportive environments, and promote a deeper understanding of mental health issues.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+In a society where mental health concerns are often overlooked, Necessio is at the forefront of the movement to make mental well-being a priority, ensuring that every individual, regardless of their background, receives the compassion and care they deserve.

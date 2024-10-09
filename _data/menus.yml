@@ -1,13 +1,16 @@
 main:
-  - name: "Our Work"
-    url: "/our-work/"
-    weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
   - name: "About"
     url: "/about/"
-    weight: 4
+  - name: "Programs"
+    url: "/programs/"
+    weight: 2
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 3
+  #   weight: 4
+  # - name: "Get Involved"
+  #   url: "/support/"
+  #   weight: 6
   - name: "Contact"
     url: "/contact/"
     weight: 5
