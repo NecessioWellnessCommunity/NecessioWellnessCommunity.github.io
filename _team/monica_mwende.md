@@ -1,8 +1,8 @@
 ---
-title: "Robert Johnson"
-date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Developer"
+title: "Monica Mwende"
+date: 2024-10-10T13:44:23+10:00
+image: ""
+jobtitle: "Treasurer"
 linkedinurl: "https://www.linkedin.com/"
 weight: 3
 ---
