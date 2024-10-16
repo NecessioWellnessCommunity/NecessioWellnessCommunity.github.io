@@ -4,10 +4,10 @@ main:
   - name: "Programs"
     url: "/programs/"
     weight: 2
-  # - name: "Team"
-  #   url: "/team/"
-  #   weight: 3
-  #   weight: 4
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+    weight: 4
   # - name: "Get Involved"
   #   url: "/support/"
   #   weight: 6
