@@ -1,13 +1,11 @@
 ---
 title: "Charlotte Okot "
 date: 2018-11-19T10:47:58+10:00
-image: ""
+image: "/images/team/charlotte_oyella.jpeg"
 jobtitle: "CEO & Founder"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Charlotte is the visionary behind the wellness community. She founded the organization with a mission to provide compassionate support for mental health and promote well-being through advocacy, outreach, and education.
